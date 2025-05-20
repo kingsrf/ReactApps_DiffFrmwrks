@@ -1,0 +1,59 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+
+# Remix
+.cache/
+build/
+dist/
+public/build/
+remix.env.d.ts
+remix.env.d.ts.map
+
+# Gatsby
+.cache/
+public/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+android/
+ios/
+expo-debug.log*
+
+# Env files
+.env
+.env.*.local
+
+# Logs & coverage
+*.log
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS & misc
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.pid
+._*
+
+.pnp.*
+.turbo/
